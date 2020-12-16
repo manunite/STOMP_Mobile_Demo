@@ -1,0 +1,24 @@
+PODS:
+  - SnapKit (5.0.1)
+  - SocketRocket (0.5.1)
+  - StompClientLib (1.4.0):
+    - SocketRocket
+
+DEPENDENCIES:
+  - SnapKit (~> 5.0.0)
+  - StompClientLib
+
+SPEC REPOS:
+  trunk:
+    - SnapKit
+    - SocketRocket
+    - StompClientLib
+
+SPEC CHECKSUMS:
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+  SocketRocket: d57c7159b83c3c6655745cd15302aa24b6bae531
+  StompClientLib: bb96ebd29d4b9766fff97a4cbe2f515a7242c17a
+
+PODFILE CHECKSUM: 6bc1fdf2f24688114688bd5ecdbaea0acf16a35f
+
+COCOAPODS: 1.10.0
